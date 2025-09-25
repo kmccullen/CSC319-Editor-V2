@@ -16,4 +16,6 @@ Commands are:
 * yank n:       Copy line n into the copy buffer
 * write:        Prompts for file to write out to
 
-I will provide sample code that implements the original commands (append, delete, insert, sort, stat). If you weren't able to get version 1 working, you can use my version as your start for version 2.
+I have provided sample code that implements the original commands (append, delete, insert, sort, stat). If you weren't able to get version 1 working, you can use my version as your start for version 2.
+
+Note that there is little or no (actually "no") error checking. I intend to make that a future step.
